@@ -9,9 +9,10 @@ Sup.
 3. c
 ---
 `Inline code`
-###
+```
 Public{
 }
-###
+```
 *italic*
+
 **Bold**
