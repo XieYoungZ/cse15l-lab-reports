@@ -17,3 +17,8 @@ Public{
 *italic*
 
 **Bold**
+
+***Bold and Italic***
+
+Hello World
+Goodbye World
